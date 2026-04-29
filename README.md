@@ -86,20 +86,3 @@ It’s basically a **mini school database system** where you can:
 👉 Delete entries
 
 ---
-
-## ⚠️ Honest Evaluation
-
-Based on what’s typical for repos like this:
-
-* ✔ Good for learning and demos
-* ❌ Not production-ready (usually lacks security, scalability, authentication)
-* ✔ Focuses mainly on core functionality, not advanced features
-
----
-
-If you want, I can:
-
-* break down the **actual code file-by-file**
-* or help you **explain this in viva/interview style (short answer)**
-
-[1]: https://mnhtng.github.io/Student-managerment/?utm_source=chatgpt.com "StudentManager | Student-managerment"
